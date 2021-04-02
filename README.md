@@ -11,5 +11,7 @@ Show the distance recorded using an ultrasonic sensor on a 7 segment 4 digit dis
 ### Software
 - Arduino IDE;
 - SevSeg library (can be installed directly within the IDE or downloaded [from the GitHub repo](https://github.com/DeanIsMe/SevSeg));
+## Images
+<img src="https://raw.githubusercontent.com/sabinM1/ultra47/master/images/p2.jpg" width="450px" height="auto"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sabinM1/ultra47/master/images/p1.png" width="450px" height="auto"/>
 ## MIT License
 You should have a *LICENSE* file along with this project.
