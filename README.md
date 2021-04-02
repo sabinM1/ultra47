@@ -1,5 +1,5 @@
 # ultra47
-Show the distance recorded using an ultrasonic sensor on a 7 segment 4 digit display
+Show the distance recorded by an ultrasonic sensor on a 7 segment 4 digit display using an Arduino
 
 ## Requirements
 ### Hardware
